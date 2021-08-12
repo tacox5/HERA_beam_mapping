@@ -1,4 +1,10 @@
-# CASA_imaging
+# CASA Imaging
+
+CASA Imaging is a set of python scripts developed quickly image large amounts of radio interferometry data for calibration and commissioning. In particular, this package was used to map the primary beam of the Hydrogen Epoch of Reionization Array using a drift scan approach to measuring source brightness as radio bright galaxies move overhead. Below is an example of a drift scan movie that was produced by the imaging pipeline using a night of HERA data.
+
+<p align="center">
+  <img src="assets/full_pressure.gif" alt="animated" />
+</p>
 
 ## Installation
 
